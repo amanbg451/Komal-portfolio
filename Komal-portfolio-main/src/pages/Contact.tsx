@@ -24,7 +24,7 @@ function Contact() {
           />
         </svg>
       ),
-      contact: "Oslo, Norway.",
+      contact: "Muzaffarpur, Bihar.",
       title: "Based in",
     },
     {
@@ -44,7 +44,7 @@ function Contact() {
           />
         </svg>
       ),
-      contact: "+47 988 40 328",
+      contact: "+91 7903455410",
       title: "Phone",
     },
     {
@@ -64,7 +64,7 @@ function Contact() {
           />
         </svg>
       ),
-      contact: "ruben.nicolaysen.pedersen@gmail.com",
+      contact: "komalsha@gmail.com",
       title: "Email",
     },
   ];

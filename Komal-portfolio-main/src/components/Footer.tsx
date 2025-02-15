@@ -52,7 +52,7 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Salar Adel
+            komal sha
           </a>
           . All rights reserved.
         </p>
